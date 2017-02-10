@@ -76,6 +76,7 @@ shinyUI(pageWithSidebar(
                     #          h4("BMI coefficient (kg/m^2)"),
                     #          fluidRow(column(3, verbatimTextOutput("BMIvalue")))
                     #          )
+                    
         )
     )
 )
