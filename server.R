@@ -924,6 +924,5 @@ shinyServer(
                 }
             }
         )
-        
     }
 )
